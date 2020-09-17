@@ -29,7 +29,7 @@ print("2D Gaussian-like array:")
 print(g)
 
 g1=g
-file1 = open("myfile.txt","w") 
+#file1 = open("myfile.txt","w") 
 
 for i in range(n):
     for j in range(n):
